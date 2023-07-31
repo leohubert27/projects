@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+    margin:0;
+    padding: 0;
+}
+
+main {
+    height: 90vh;
+    background-color:  #222222
+}
+
+header {
+    background-color: #BDFFE1;
+    font-family: 'Lato', sans-serif;
+    padding: 15px;
+    color: #232323;
+}
+
+.aviso {
+    font-size: 36px;
+    padding: 5px;
+}
+
+.aviso__mensagem {
+    font-size: 18px;
+    padding: 5px;
+}
+
+ .apresentacao__conteudo__titulo {
+    font-size: 32px;
+    color: white;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding-top: 30px;
+ }
+
+ .apresentacao__conteudo__caixa {
+    font-size: 24px;
+    padding: 50px;
+    padding-left: 755px;
+    color: #AAAAAA;
+ }
+
+ input[type='radio'], label{   
+    vertical-align: baseline;
+    padding: 10px;
+    margin: 10px;
+ }
+
+input[type='radio'], label:hover {
+    color: #0DFF92;
+}
+  
